@@ -2,7 +2,7 @@
 seeds = false
 skip-lint = false
 [programs.localnet]
-token_contract = "Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS"
+token_contract = "8skxgJuuJicPJFqT4oS1hLfDpdyBXQhi7Q5zP6hK71gt"
 
 [registry]
 url = "https://api.apr.dev"
